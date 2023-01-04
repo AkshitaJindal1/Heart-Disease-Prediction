@@ -34,8 +34,7 @@ The Jupyter notebook "Heart Failure Prediction.ipynb" contains the code for data
 7. Comparing models
 8. Conclusion
 
-Note: The Jupyter notebook itself further contains various headings, subheadings, notes, and comments (followed by #) to help navigate and run the code in order, without errors. 
-
+Note: The Jupyter notebook itself further contains various headings, subheadings, notes, and comments (followed by #) to help navigate and run the code in order.
 
 # Future work - 
 
