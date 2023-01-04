@@ -18,16 +18,16 @@ Thus, the final dataset used in this project has **918 observations.**
 
 # Running the code - 
 
-Within the Zip file, the "heart.csv" file contains the final dataset. 
+The "heart.csv" file contains the final dataset. 
 The Jupyter notebook "Heart Failure Prediction.ipynb" contains the code for dataset analysis and prediction models. It has the following list of contents - 
 
 1. Importing packages
 2. Loading data
 3. Data Cleaning and Wrangling
 4. Exploratory Data Analysis (EDA)
-  - Analysis of categorical columns
-  - Analysis of numerical columns
-  - Analysis of the target column – HeartDisease
+   - Analysis of categorical columns
+   - Analysis of numerical columns
+   - Analysis of the target column – HeartDisease
 5. Prediction of Heart Disease using K-nearest neighbours (KNN) model
 6. Prediction of Heart Disease using Logistic Regression model
 7. Comparing models
