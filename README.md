@@ -12,9 +12,9 @@ This is a pipeline written in Jupyter notebook to understand and compare the bes
 - Long Beach VA: 200 observations
 - Stalog (Heart) Data Set: 270 observations
 
-Total: **1190 observations, Duplicated: 272 observations
+Total: **1190 observations, Duplicated: 272 observations**
 
-Thus, the final dataset used in this project has **918 observations. 
+Thus, the final dataset used in this project has **918 observations.** 
 
 # Running the code - 
 
