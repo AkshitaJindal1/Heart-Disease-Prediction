@@ -28,10 +28,11 @@ The Jupyter notebook "Heart Failure Prediction.ipynb" contains the code for data
    - Analysis of categorical columns
    - Analysis of numerical columns
    - Analysis of the target column – HeartDisease
-5. Prediction of Heart Disease using K-nearest neighbours (KNN) model
-6. Prediction of Heart Disease using Logistic Regression model
+5. Prediction of Heart Disease 
+   - Using K-nearest neighbours (KNN) model
+   - Using Logistic Regression model
 7. Comparing models
-8. Conclusion 
+8. Conclusion
 
 Note: The Jupyter notebook itself further contains various headings, subheadings, notes, and comments (followed by #) to help navigate and run the code in order, without errors. 
 
