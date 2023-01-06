@@ -1,6 +1,6 @@
 # Project name - 
 
-Heart Failure Prediction 
+Heart Disease Prediction 
 
 # Background - 
 
